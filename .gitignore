@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+
+# Agent / automation internal memory (contains personal data)
+.workbuddy/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local secrets (never committed)
+.env
+*.token

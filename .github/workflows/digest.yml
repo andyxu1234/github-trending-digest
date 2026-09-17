@@ -1,0 +1,99 @@
+name: Daily GitHub Trending Digest
+
+on:
+  schedule:
+    # GitHub Actions 的 cron 使用 UTC。09:00 (GMT+8) = 01:00 UTC
+    # 日报：每天 01:00 UTC
+    - cron: "0 1 * * *"
+    # 周报：每周五 01:20 UTC
+    - cron: "20 1 * * 5"
+    # 月报：每月 1 号 01:40 UTC
+    - cron: "40 1 1 * *"
+  # 手动补跑指定类型（不使用 matrix，避免 schedule 触发时执行到空值）
+  workflow_dispatch:
+    inputs:
+      type:
+        description: "补跑类型"
+        required: true
+        default: daily
+        type: choice
+        options: [daily, weekly, monthly]
+
+# 需要写回仓库（报告 / 快照 / 站点），因此 contents: write
+permissions:
+  contents: write
+
+# 同一时间只跑一个，且不打断正在进行的任务
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Resolve report type
+        id: mode
+        env:
+          SCHEDULE_CRON: ${{ github.event.schedule }}
+          MANUAL_TYPE: ${{ github.event.inputs.type }}
+        run: |
+          if [ "$GITHUB_EVENT_NAME" = "schedule" ]; then
+            case "$SCHEDULE_CRON" in
+              "0 1 * * *")  REPORT=daily ;;
+              "20 1 * * 5") REPORT=weekly ;;
+              "40 1 1 * *") REPORT=monthly ;;
+              *)            REPORT=daily ;;
+            esac
+          else
+            REPORT="${MANUAL_TYPE:-daily}"
+          fi
+          echo "type=$REPORT" >> "$GITHUB_OUTPUT"
+          echo "本次生成类型：$REPORT"
+
+      - name: Run digest pipeline
+        env:
+          # 仓库 Settings → Secrets and variables → Actions 中配置
+          # Variables:  LLM_PROVIDER (openai/deepseek/gemini/off)、LLM_MODEL
+          # Secrets:    LLM_API_KEY
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER || 'off' }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        run: |
+          python automate.py --type "${{ steps.mode.outputs.type }}"
+
+      - name: Commit reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports state.json data dist
+          if git diff --cached --quiet; then
+            echo "没有变更，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore(digest): ${{ steps.mode.outputs.type }} report $(date -u +'%Y-%m-%d')"
+          # 远端可能被并发推送，push 前先 rebase
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Upload reports artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: trending-reports-${{ steps.mode.outputs.type }}
+          path: reports/
+          retention-days: 14

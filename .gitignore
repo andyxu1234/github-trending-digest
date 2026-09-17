@@ -4,6 +4,11 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Agent 运行期临时文件（build 后会清空，不入库）
+data/intros_override.json
+data/trending_raw.json
+data/*.tmp
+
 # IDE
 .idea/
 

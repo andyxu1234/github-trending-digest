@@ -20,6 +20,10 @@ concurrency:
   group: pages
   cancel-in-progress: false
 
+# 兼容 Node 20 action 被逐步淘汰期间的弃用告警（无实际影响，可随时删除）
+env:
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: "true"
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -38,6 +42,10 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
+        with:
+          # 仓库尚未开启 Pages 时自动创建站点（需要 pages: write 权限）
+          # 若已在 Settings → Pages 手动选择 "GitHub Actions"，该项会直接跳过
+          enablement: true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

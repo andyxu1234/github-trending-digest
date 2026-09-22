@@ -98,22 +98,25 @@
     "anthropics/financial-services": "（暂无简介，可参考仓库 README）",
     "paperless-ngx/paperless-ngx": "A community-supported supercharged document management system: scan, index and archive all your documents",
     "mihail911/modern-software-dev-assignments": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
-    "vercel-labs/json-render": "The Generative UI framework"
+    "vercel-labs/json-render": "The Generative UI framework",
+    "akitaonrails/ai-memory": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "mvt-project/mvt": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potentia…",
+    "zhouxiaoka/autoclip": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+    "Crosstalk-Solutions/project-nomad": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and opti…"
   },
   "last_daily": [
-    "affaan-m/ECC",
     "BuilderIO/agent-native",
-    "cloudflare/security-audit-skill",
     "trycua/cua",
-    "anthropics/financial-services",
-    "paperless-ngx/paperless-ngx",
-    "anthropics/claude-code",
-    "mihail911/modern-software-dev-assignments",
-    "higgsfield-ai/higgsfield",
     "Open-Dev-Society/OpenStock",
+    "akitaonrails/ai-memory",
     "coder/coder",
-    "vercel-labs/json-render",
-    "addyosmani/agent-skills"
+    "anthropics/financial-services",
+    "cloudflare/quiche",
+    "mvt-project/mvt",
+    "zhouxiaoka/autoclip",
+    "ruanyf/weekly",
+    "Crosstalk-Solutions/project-nomad",
+    "yynxxxxx/Codex-X"
   ],
   "last_weekly": [
     "alibaba/open-code-review",

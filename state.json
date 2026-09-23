@@ -102,21 +102,23 @@
     "akitaonrails/ai-memory": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
     "mvt-project/mvt": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potentia…",
     "zhouxiaoka/autoclip": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
-    "Crosstalk-Solutions/project-nomad": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and opti…"
+    "Crosstalk-Solutions/project-nomad": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and opti…",
+    "agent-substrate/substrate": "Agent Substrate: the core system",
+    "dream-num/univer": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "davila7/claude-code-templates": "CLI tool for configuring and monitoring Claude Code",
+    "google/ax": "Google's open agentic orchestration runtime",
+    "superdesigndev/treg": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+    "browser-use/video-use": "Edit videos with coding agents"
   },
   "last_daily": [
-    "BuilderIO/agent-native",
-    "trycua/cua",
-    "Open-Dev-Society/OpenStock",
-    "akitaonrails/ai-memory",
-    "coder/coder",
     "anthropics/financial-services",
-    "cloudflare/quiche",
+    "agent-substrate/substrate",
+    "dream-num/univer",
+    "davila7/claude-code-templates",
+    "google/ax",
     "mvt-project/mvt",
-    "zhouxiaoka/autoclip",
-    "ruanyf/weekly",
-    "Crosstalk-Solutions/project-nomad",
-    "yynxxxxx/Codex-X"
+    "superdesigndev/treg",
+    "browser-use/video-use"
   ],
   "last_weekly": [
     "alibaba/open-code-review",

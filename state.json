@@ -138,24 +138,23 @@
     "anthropics/claude-code-action": "（暂无简介，可参考仓库 README）",
     "actions/runner-images": "GitHub Actions runner images",
     "mobile-next/mobile-mcp": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-    "vercel/next.js": "The React Framework"
+    "vercel/next.js": "The React Framework",
+    "debpalash/VoiceStudio": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictati…",
+    "InfinityLoop1308/PipePipe": "An open-source Android app to let you browse YouTube and other services freely.",
+    "vercel-labs/scriptc": "TypeScript-to-Native Compiler",
+    "mvschwarz/openrig": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "willfaust/Madeira": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT"
   },
   "last_daily": [
     "paperclipai/paperclip",
     "vectorize-io/hindsight",
-    "NVIDIA/Model-Optimizer",
-    "dream-num/univer",
-    "tensorflow/tensorflow",
+    "debpalash/VoiceStudio",
     "rohitg00/ai-engineering-from-scratch",
-    "openbao/openbao",
-    "block/buzz",
-    "microsoft/vscode",
-    "zhaoxuya520/reverse-skill",
-    "llvm/llvm-project",
-    "anthropics/claude-code-action",
-    "actions/runner-images",
-    "mobile-next/mobile-mcp",
-    "vercel/next.js"
+    "InfinityLoop1308/PipePipe",
+    "vercel-labs/scriptc",
+    "mvschwarz/openrig",
+    "dream-num/univer",
+    "willfaust/Madeira"
   ],
   "last_weekly": [
     "anthropics/financial-services",

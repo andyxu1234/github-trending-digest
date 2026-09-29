@@ -143,18 +143,20 @@
     "InfinityLoop1308/PipePipe": "An open-source Android app to let you browse YouTube and other services freely.",
     "vercel-labs/scriptc": "TypeScript-to-Native Compiler",
     "mvschwarz/openrig": "Multi-agent harness that runs Claude Code and Codex together as one system",
-    "willfaust/Madeira": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT"
+    "willfaust/Madeira": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+    "NawfalMotii79/PLFM_RADAR": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "cs341-illinois/coursebook": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+    "byoungd/up": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习…"
   },
   "last_daily": [
+    "debpalash/VoiceStudio",
     "paperclipai/paperclip",
     "vectorize-io/hindsight",
-    "debpalash/VoiceStudio",
-    "rohitg00/ai-engineering-from-scratch",
-    "InfinityLoop1308/PipePipe",
-    "vercel-labs/scriptc",
+    "NawfalMotii79/PLFM_RADAR",
+    "cs341-illinois/coursebook",
+    "byoungd/up",
     "mvschwarz/openrig",
-    "dream-num/univer",
-    "willfaust/Madeira"
+    "dream-num/univer"
   ],
   "last_weekly": [
     "anthropics/financial-services",

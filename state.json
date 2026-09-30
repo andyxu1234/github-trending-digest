@@ -146,17 +146,29 @@
     "willfaust/Madeira": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
     "NawfalMotii79/PLFM_RADAR": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
     "cs341-illinois/coursebook": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-    "byoungd/up": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习…"
+    "byoungd/up": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习…",
+    "NVIDIA/OpenShell": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "t8y2/dbx": "MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, D…",
+    "oblien/openship": "Self-hosted deployment platform",
+    "averygan/reclip": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "VectifyAI/PageIndex": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "rakyll/hey": "HTTP load generator, ApacheBench (ab) replacement"
   },
   "last_daily": [
     "debpalash/VoiceStudio",
-    "paperclipai/paperclip",
+    "NVIDIA/OpenShell",
     "vectorize-io/hindsight",
-    "NawfalMotii79/PLFM_RADAR",
-    "cs341-illinois/coursebook",
-    "byoungd/up",
+    "paperclipai/paperclip",
+    "t8y2/dbx",
     "mvschwarz/openrig",
-    "dream-num/univer"
+    "oblien/openship",
+    "averygan/reclip",
+    "cs341-illinois/coursebook",
+    "rohitg00/ai-engineering-from-scratch",
+    "VectifyAI/PageIndex",
+    "willfaust/Madeira",
+    "dream-num/univer",
+    "rakyll/hey"
   ],
   "last_weekly": [
     "anthropics/financial-services",

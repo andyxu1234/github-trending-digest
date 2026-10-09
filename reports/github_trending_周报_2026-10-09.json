@@ -1,7 +1,47 @@
 {
-  "fetched_at": "2026-10-09T15:27:35.436216+08:00",
+  "type": "周报",
+  "type_en": "weekly",
+  "date": "2026-10-09",
   "source": "https://github.com/trending?since=weekly",
-  "since": "weekly",
+  "fetched_at": "2026-10-09T15:27:35.436216+08:00",
+  "generated_at": "2026-10-09T15:27:35.491946+08:00",
+  "count": 11,
+  "is_first": false,
+  "new_count": 11,
+  "removed_count": 18,
+  "new_keys": [
+    "boykopovar/AnyPS5",
+    "mvschwarz/openrig",
+    "heygen-com/hyperframes",
+    "EpicGames/raddebugger",
+    "cursor/plugins",
+    "thedotmack/claude-mem",
+    "mattpocock/skills",
+    "Panniantong/Agent-Reach",
+    "earthtojake/text-to-cad",
+    "DuarteSantos8/openGym",
+    "pablostanley/yoinks"
+  ],
+  "removed": [
+    "paperclipai/paperclip",
+    "vectorize-io/hindsight",
+    "debpalash/VoiceStudio",
+    "rohitg00/ai-engineering-from-scratch",
+    "anthropics/financial-services",
+    "vercel/next.js",
+    "pbakaus/impeccable",
+    "HKUDS/CLI-Anything",
+    "alirezarezvani/claude-skills",
+    "davila7/claude-code-templates",
+    "TencentCloud/Octop",
+    "agent-substrate/substrate",
+    "tile-ai/tilelang",
+    "anthropics/claude-code-action",
+    "dream-num/univer",
+    "FxEmbed/FxEmbed",
+    "flutter/flutter",
+    "androoAGI/starnet"
+  ],
   "repos": [
     {
       "rank": 1,
@@ -14,8 +54,8 @@
       "forks": 1377,
       "stars_period": 10243,
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "cached": true,
-      "readme_text": ""
+      "intro": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "is_new": true
     },
     {
       "rank": 2,
@@ -28,8 +68,8 @@
       "forks": 455,
       "stars_period": 2693,
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "cached": true,
-      "readme_text": ""
+      "intro": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "is_new": true
     },
     {
       "rank": 3,
@@ -42,8 +82,8 @@
       "forks": 5292,
       "stars_period": 3996,
       "description": "Write HTML. Render video. Built for agents.",
-      "cached": true,
-      "readme_text": ""
+      "intro": "Write HTML. Render video. Built for agents.",
+      "is_new": true
     },
     {
       "rank": 4,
@@ -56,8 +96,8 @@
       "forks": 392,
       "stars_period": 448,
       "description": "A native, user-mode, multi-process, graphical debugger.",
-      "cached": true,
-      "readme_text": ""
+      "intro": "A native, user-mode, multi-process, graphical debugger.",
+      "is_new": true
     },
     {
       "rank": 5,
@@ -70,8 +110,8 @@
       "forks": 988,
       "stars_period": 1109,
       "description": "Cursor plugin specification and official plugins",
-      "cached": true,
-      "readme_text": ""
+      "intro": "Cursor plugin specification and official plugins",
+      "is_new": true
     },
     {
       "rank": 6,
@@ -84,8 +124,8 @@
       "forks": 8655,
       "stars_period": 3153,
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "cached": true,
-      "readme_text": ""
+      "intro": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it…",
+      "is_new": true
     },
     {
       "rank": 7,
@@ -98,8 +138,8 @@
       "forks": 23601,
       "stars_period": 7448,
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "cached": true,
-      "readme_text": ""
+      "intro": "一位资深工程师把自己 .agents 配置里真正在用的 AI 技能直接开源出来，面向「真干活的程序员」。",
+      "is_new": true
     },
     {
       "rank": 8,
@@ -112,8 +152,8 @@
       "forks": 8252,
       "stars_period": 6987,
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "cached": true,
-      "readme_text": ""
+      "intro": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongSh…",
+      "is_new": true
     },
     {
       "rank": 9,
@@ -126,8 +166,8 @@
       "forks": 1843,
       "stars_period": 1898,
       "description": "Give your agent CAD superpowers.",
-      "cached": true,
-      "readme_text": ""
+      "intro": "Give your agent CAD superpowers.",
+      "is_new": true
     },
     {
       "rank": 10,
@@ -140,8 +180,8 @@
       "forks": 1040,
       "stars_period": 6086,
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "cached": true,
-      "readme_text": ""
+      "intro": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are…",
+      "is_new": true
     },
     {
       "rank": 11,
@@ -154,8 +194,8 @@
       "forks": 464,
       "stars_period": 2706,
       "description": "yoink any video from your terminal. no shady ads.",
-      "cached": true,
-      "readme_text": ""
+      "intro": "yoink any video from your terminal. no shady ads.",
+      "is_new": true
     }
   ]
 }

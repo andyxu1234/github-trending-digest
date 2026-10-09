@@ -195,22 +195,20 @@
     "deepseek-ai/DeepGEMM": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
     "cathrynlavery/diagram-design": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained…",
     "EpicGames/raddebugger": "A native, user-mode, multi-process, graphical debugger.",
-    "manaflow-ai/cmux": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitaski…"
+    "manaflow-ai/cmux": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitaski…",
+    "storytold/artcraft": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "liquidslr/system-design-notes": "Notes of the book System Desgin Interview - An Insider's Guide"
   },
   "last_daily": [
+    "boykopovar/AnyPS5",
+    "cathrynlavery/diagram-design",
     "morluto/rea",
     "mattpocock/skills",
-    "boykopovar/AnyPS5",
-    "ayghri/i-have-adhd",
-    "cathrynlavery/diagram-design",
-    "addyosmani/agent-skills",
-    "EpicGames/raddebugger",
     "thedotmack/claude-mem",
-    "manaflow-ai/cmux",
-    "trycua/cua",
-    "cloudflare/security-audit-skill",
-    "tester-army/e2e",
-    "DuarteSantos8/openGym"
+    "EpicGames/raddebugger",
+    "anthropics/knowledge-work-plugins",
+    "storytold/artcraft",
+    "liquidslr/system-design-notes"
   ],
   "last_weekly": [
     "paperclipai/paperclip",

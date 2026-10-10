@@ -197,18 +197,23 @@
     "EpicGames/raddebugger": "A native, user-mode, multi-process, graphical debugger.",
     "manaflow-ai/cmux": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitaski…",
     "storytold/artcraft": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-    "liquidslr/system-design-notes": "Notes of the book System Desgin Interview - An Insider's Guide"
+    "liquidslr/system-design-notes": "Notes of the book System Desgin Interview - An Insider's Guide",
+    "BerriAI/litellm": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra…",
+    "Robbyant/lingbot-map": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+    "twostraws/SwiftUI-Agent-Skill": "SwiftUI agent skill for Claude Code, Codex, and other AI tools."
   },
   "last_daily": [
-    "boykopovar/AnyPS5",
-    "cathrynlavery/diagram-design",
     "morluto/rea",
+    "boykopovar/AnyPS5",
     "mattpocock/skills",
-    "thedotmack/claude-mem",
-    "EpicGames/raddebugger",
+    "cathrynlavery/diagram-design",
+    "alibaba/open-code-review",
     "anthropics/knowledge-work-plugins",
+    "BerriAI/litellm",
+    "addyosmani/agent-skills",
     "storytold/artcraft",
-    "liquidslr/system-design-notes"
+    "Robbyant/lingbot-map",
+    "twostraws/SwiftUI-Agent-Skill"
   ],
   "last_weekly": [
     "boykopovar/AnyPS5",

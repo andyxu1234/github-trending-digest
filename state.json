@@ -200,20 +200,25 @@
     "liquidslr/system-design-notes": "Notes of the book System Desgin Interview - An Insider's Guide",
     "BerriAI/litellm": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra…",
     "Robbyant/lingbot-map": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-    "twostraws/SwiftUI-Agent-Skill": "SwiftUI agent skill for Claude Code, Codex, and other AI tools."
+    "twostraws/SwiftUI-Agent-Skill": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+    "hugohe3/ppt-master": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-bac…",
+    "huggingface/transformers": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and…",
+    "multica-ai/andrej-karpathy-skills": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfa…"
   },
   "last_daily": [
     "morluto/rea",
     "boykopovar/AnyPS5",
-    "mattpocock/skills",
-    "cathrynlavery/diagram-design",
-    "alibaba/open-code-review",
-    "anthropics/knowledge-work-plugins",
-    "BerriAI/litellm",
-    "addyosmani/agent-skills",
     "storytold/artcraft",
-    "Robbyant/lingbot-map",
-    "twostraws/SwiftUI-Agent-Skill"
+    "cathrynlavery/diagram-design",
+    "mksglu/context-mode",
+    "mattpocock/skills",
+    "flutter/flutter",
+    "tensorflow/tensorflow",
+    "hugohe3/ppt-master",
+    "pytorch/pytorch",
+    "huggingface/transformers",
+    "anthropics/knowledge-work-plugins",
+    "multica-ai/andrej-karpathy-skills"
   ],
   "last_weekly": [
     "boykopovar/AnyPS5",

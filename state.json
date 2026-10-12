@@ -203,22 +203,18 @@
     "twostraws/SwiftUI-Agent-Skill": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
     "hugohe3/ppt-master": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-bac…",
     "huggingface/transformers": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and…",
-    "multica-ai/andrej-karpathy-skills": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfa…"
+    "multica-ai/andrej-karpathy-skills": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfa…",
+    "chrislgarry/Apollo-11": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
   },
   "last_daily": [
     "morluto/rea",
     "boykopovar/AnyPS5",
     "storytold/artcraft",
     "cathrynlavery/diagram-design",
-    "mksglu/context-mode",
-    "mattpocock/skills",
-    "flutter/flutter",
-    "tensorflow/tensorflow",
-    "hugohe3/ppt-master",
+    "bilawalsidhu/gods-eye-view",
     "pytorch/pytorch",
-    "huggingface/transformers",
-    "anthropics/knowledge-work-plugins",
-    "multica-ai/andrej-karpathy-skills"
+    "lyogavin/airllm",
+    "chrislgarry/Apollo-11"
   ],
   "last_weekly": [
     "boykopovar/AnyPS5",

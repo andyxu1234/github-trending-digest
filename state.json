@@ -207,18 +207,20 @@
     "chrislgarry/Apollo-11": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
     "open-webui/open-webui": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
     "microsoft/BitNet": "Official inference framework for 1-bit LLMs",
-    "Alishahryar1/free-claude-code": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal…"
+    "Alishahryar1/free-claude-code": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal…",
+    "vercel-labs/skills": "The open agent skills tool - npx skills",
+    "xtool-org/xtool": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS."
   },
   "last_daily": [
     "morluto/rea",
     "bilawalsidhu/gods-eye-view",
+    "debpalash/VoiceStudio",
     "mksglu/context-mode",
-    "storytold/artcraft",
-    "open-webui/open-webui",
     "cathrynlavery/diagram-design",
+    "vercel-labs/skills",
     "lyogavin/airllm",
-    "microsoft/BitNet",
-    "Alishahryar1/free-claude-code"
+    "storytold/artcraft",
+    "xtool-org/xtool"
   ],
   "last_weekly": [
     "boykopovar/AnyPS5",

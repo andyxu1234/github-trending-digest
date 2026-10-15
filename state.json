@@ -209,18 +209,27 @@
     "microsoft/BitNet": "Official inference framework for 1-bit LLMs",
     "Alishahryar1/free-claude-code": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal…",
     "vercel-labs/skills": "The open agent skills tool - npx skills",
-    "xtool-org/xtool": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS."
+    "xtool-org/xtool": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+    "nvm-sh/nvm": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+    "K-Dense-AI/scientific-agent-skills": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide.…",
+    "ifixai-ai/iFixAi": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent…",
+    "vxcontrol/pentagi": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "rust-lang/rust": "Empowering everyone to build reliable and efficient software.",
+    "ntdevlabs/tiny11builder": "WinUI app for building smaller, customized Windows 11 images."
   },
   "last_daily": [
     "morluto/rea",
-    "bilawalsidhu/gods-eye-view",
     "debpalash/VoiceStudio",
     "mksglu/context-mode",
-    "cathrynlavery/diagram-design",
-    "vercel-labs/skills",
-    "lyogavin/airllm",
-    "storytold/artcraft",
-    "xtool-org/xtool"
+    "nvm-sh/nvm",
+    "K-Dense-AI/scientific-agent-skills",
+    "HKUDS/CLI-Anything",
+    "ifixai-ai/iFixAi",
+    "vxcontrol/pentagi",
+    "rust-lang/rust",
+    "xtool-org/xtool",
+    "ntdevlabs/tiny11builder",
+    "NationalSecurityAgency/ghidra"
   ],
   "last_weekly": [
     "boykopovar/AnyPS5",

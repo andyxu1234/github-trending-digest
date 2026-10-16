@@ -219,7 +219,8 @@
     "ruvnet/ruflo": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build convers…",
     "lightseekorg/tokenspeed": "TokenSpeed is a speed-of-light LLM inference engine.",
     "xerj-org/xerj": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token…",
-    "LibreSpark/LibreTV": "一分钟搭建影视站，支持Docker等部署方式"
+    "LibreSpark/LibreTV": "一分钟搭建影视站，支持Docker等部署方式",
+    "ranxianglei/billion-context": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and…"
   },
   "last_daily": [
     "morluto/rea",
@@ -237,17 +238,17 @@
     "LibreSpark/LibreTV"
   ],
   "last_weekly": [
+    "morluto/rea",
     "boykopovar/AnyPS5",
-    "mvschwarz/openrig",
-    "heygen-com/hyperframes",
-    "EpicGames/raddebugger",
-    "cursor/plugins",
-    "thedotmack/claude-mem",
     "mattpocock/skills",
-    "Panniantong/Agent-Reach",
+    "heygen-com/hyperframes",
+    "cathrynlavery/diagram-design",
+    "NationalSecurityAgency/ghidra",
+    "ranxianglei/billion-context",
     "earthtojake/text-to-cad",
+    "twostraws/SwiftUI-Agent-Skill",
     "DuarteSantos8/openGym",
-    "pablostanley/yoinks"
+    "cursor/plugins"
   ],
   "last_monthly": [
     "bilawalsidhu/gods-eye-view",

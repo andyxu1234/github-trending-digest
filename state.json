@@ -220,22 +220,25 @@
     "lightseekorg/tokenspeed": "TokenSpeed is a speed-of-light LLM inference engine.",
     "xerj-org/xerj": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token…",
     "LibreSpark/LibreTV": "一分钟搭建影视站，支持Docker等部署方式",
-    "ranxianglei/billion-context": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and…"
+    "ranxianglei/billion-context": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and…",
+    "android/skills": "（暂无简介，可参考仓库 README）",
+    "MadsLorentzen/ai-job-search": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor C…",
+    "hmjz100/LinkSwift": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
   },
   "last_daily": [
-    "morluto/rea",
     "anthropics/claude-plugins-official",
     "K-Dense-AI/scientific-agent-skills",
-    "JuliusBrussee/caveman",
-    "debpalash/VoiceStudio",
-    "obra/superpowers",
-    "ruvnet/ruflo",
-    "mksglu/context-mode",
-    "NationalSecurityAgency/ghidra",
     "affaan-m/ECC",
-    "lightseekorg/tokenspeed",
-    "xerj-org/xerj",
-    "LibreSpark/LibreTV"
+    "HKUDS/CLI-Anything",
+    "mksglu/context-mode",
+    "ruvnet/ruflo",
+    "android/skills",
+    "obra/superpowers",
+    "cursor/plugins",
+    "debpalash/VoiceStudio",
+    "MadsLorentzen/ai-job-search",
+    "hmjz100/LinkSwift",
+    "xerj-org/xerj"
   ],
   "last_weekly": [
     "morluto/rea",

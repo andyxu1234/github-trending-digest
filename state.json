@@ -223,21 +223,22 @@
     "ranxianglei/billion-context": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and…",
     "android/skills": "（暂无简介，可参考仓库 README）",
     "MadsLorentzen/ai-job-search": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor C…",
-    "hmjz100/LinkSwift": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
+    "hmjz100/LinkSwift": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+    "anomalyco/opencode": "The open source coding agent."
   },
   "last_daily": [
     "anthropics/claude-plugins-official",
-    "K-Dense-AI/scientific-agent-skills",
+    "MadsLorentzen/ai-job-search",
     "affaan-m/ECC",
     "HKUDS/CLI-Anything",
-    "mksglu/context-mode",
-    "ruvnet/ruflo",
+    "K-Dense-AI/scientific-agent-skills",
+    "akitaonrails/ai-memory",
     "android/skills",
-    "obra/superpowers",
-    "cursor/plugins",
+    "stablyai/orca",
+    "anthropics/claude-code",
     "debpalash/VoiceStudio",
-    "MadsLorentzen/ai-job-search",
-    "hmjz100/LinkSwift",
+    "anomalyco/opencode",
+    "ruvnet/ruflo",
     "xerj-org/xerj"
   ],
   "last_weekly": [

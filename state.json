@@ -226,22 +226,24 @@
     "hmjz100/LinkSwift": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
     "anomalyco/opencode": "The open source coding agent.",
     "mlabonne/llm-course": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-    "Kruk2/jasna": "Video restoration tool"
+    "Kruk2/jasna": "Video restoration tool",
+    "headroomlabs-ai/headroom": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%…",
+    "withmarbleapp/os-taxonomy": "（暂无简介，可参考仓库 README）",
+    "shiyu-coder/Kronos": "Kronos: A Foundation Model for the Language of Financial Markets"
   },
   "last_daily": [
     "MadsLorentzen/ai-job-search",
-    "anthropics/claude-plugins-official",
     "anomalyco/opencode",
-    "cursor/plugins",
-    "ruvnet/ruflo",
     "akitaonrails/ai-memory",
+    "Comfy-Org/ComfyUI",
+    "ruvnet/ruflo",
     "stablyai/orca",
-    "HKUDS/CLI-Anything",
-    "debpalash/VoiceStudio",
-    "android/skills",
-    "mlabonne/llm-course",
+    "headroomlabs-ai/headroom",
+    "withmarbleapp/os-taxonomy",
     "Kruk2/jasna",
-    "Comfy-Org/ComfyUI"
+    "HKUDS/CLI-Anything",
+    "anthropics/claude-code",
+    "shiyu-coder/Kronos"
   ],
   "last_weekly": [
     "morluto/rea",

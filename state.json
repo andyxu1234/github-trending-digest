@@ -229,21 +229,28 @@
     "Kruk2/jasna": "Video restoration tool",
     "headroomlabs-ai/headroom": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%…",
     "withmarbleapp/os-taxonomy": "（暂无简介，可参考仓库 README）",
-    "shiyu-coder/Kronos": "Kronos: A Foundation Model for the Language of Financial Markets"
+    "shiyu-coder/Kronos": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Graphify-Labs/graphify": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill fo…",
+    "wshobson/agents": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, a…",
+    "sickn33/agentic-awesome-skills": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation…",
+    "vllm-project/vllm": "A high-throughput and memory-efficient inference and serving engine for LLMs"
   },
   "last_daily": [
     "MadsLorentzen/ai-job-search",
-    "anomalyco/opencode",
-    "akitaonrails/ai-memory",
+    "cloudflare/security-audit-skill",
+    "stablyai/orca",
+    "DietrichGebert/ponytail",
     "Comfy-Org/ComfyUI",
     "ruvnet/ruflo",
-    "stablyai/orca",
+    "Graphify-Labs/graphify",
+    "anomalyco/opencode",
+    "msitarzewski/agency-agents",
     "headroomlabs-ai/headroom",
-    "withmarbleapp/os-taxonomy",
-    "Kruk2/jasna",
-    "HKUDS/CLI-Anything",
-    "anthropics/claude-code",
-    "shiyu-coder/Kronos"
+    "anthropics/knowledge-work-plugins",
+    "wshobson/agents",
+    "sickn33/agentic-awesome-skills",
+    "shiyu-coder/Kronos",
+    "vllm-project/vllm"
   ],
   "last_weekly": [
     "morluto/rea",

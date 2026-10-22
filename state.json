@@ -233,24 +233,21 @@
     "Graphify-Labs/graphify": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill fo…",
     "wshobson/agents": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, a…",
     "sickn33/agentic-awesome-skills": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation…",
-    "vllm-project/vllm": "A high-throughput and memory-efficient inference and serving engine for LLMs"
+    "vllm-project/vllm": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "twentyhq/twenty": "The open alternative to Salesforce, designed for AI."
   },
   "last_daily": [
-    "MadsLorentzen/ai-job-search",
     "cloudflare/security-audit-skill",
+    "vllm-project/vllm",
     "stablyai/orca",
+    "headroomlabs-ai/headroom",
     "DietrichGebert/ponytail",
     "Comfy-Org/ComfyUI",
-    "ruvnet/ruflo",
-    "Graphify-Labs/graphify",
-    "anomalyco/opencode",
-    "msitarzewski/agency-agents",
-    "headroomlabs-ai/headroom",
-    "anthropics/knowledge-work-plugins",
-    "wshobson/agents",
-    "sickn33/agentic-awesome-skills",
+    "supabase/supabase",
+    "twentyhq/twenty",
     "shiyu-coder/Kronos",
-    "vllm-project/vllm"
+    "akitaonrails/ai-memory",
+    "Graphify-Labs/graphify"
   ],
   "last_weekly": [
     "morluto/rea",

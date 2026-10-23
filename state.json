@@ -253,16 +253,20 @@
   ],
   "last_weekly": [
     "morluto/rea",
-    "boykopovar/AnyPS5",
-    "mattpocock/skills",
+    "anthropics/claude-plugins-official",
+    "ruvnet/ruflo",
+    "android/skills",
+    "K-Dense-AI/scientific-agent-skills",
+    "anomalyco/opencode",
+    "HKUDS/CLI-Anything",
+    "cursor/plugins",
+    "akitaonrails/ai-memory",
+    "debpalash/VoiceStudio",
     "heygen-com/hyperframes",
-    "cathrynlavery/diagram-design",
     "NationalSecurityAgency/ghidra",
-    "ranxianglei/billion-context",
-    "earthtojake/text-to-cad",
-    "twostraws/SwiftUI-Agent-Skill",
-    "DuarteSantos8/openGym",
-    "cursor/plugins"
+    "stablyai/orca",
+    "Comfy-Org/ComfyUI",
+    "mksglu/context-mode"
   ],
   "last_monthly": [
     "bilawalsidhu/gods-eye-view",

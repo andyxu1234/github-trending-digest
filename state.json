@@ -254,23 +254,22 @@
     "AgriciDaniel/claude-seo": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, age…",
     "nightly-labs/openbot": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task…",
     "gitroomhq/postiz-app": "📨 The ultimate agentic social media scheduling tool 🤖",
-    "alchaincyf/huashu-design": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检…"
+    "alchaincyf/huashu-design": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检…",
+    "elayadesign/ai-design-skills": "（暂无简介，可参考仓库 README）",
+    "togg53192-cmd/jailbreaks": "LIST OF ALL MY JAILBREAKS"
   },
   "last_daily": [
+    "elayadesign/ai-design-skills",
     "Nutlope/hallmark",
-    "TauricResearch/TradingAgents",
-    "JetBrains/thinkrail",
-    "makecindy/cindy",
-    "affaan-m/ECC",
-    "pbakaus/impeccable",
-    "NVIDIA/SkillSpector",
-    "pollen-robotics/microduck",
     "nightly-labs/openbot",
-    "Panniantong/Agent-Reach",
-    "debpalash/VoiceStudio",
+    "obra/superpowers",
+    "pbakaus/impeccable",
+    "makecindy/cindy",
     "gitroomhq/postiz-app",
-    "alchaincyf/huashu-design",
-    "multica-ai/andrej-karpathy-skills"
+    "affaan-m/ECC",
+    "HKUDS/DeepTutor",
+    "JetBrains/thinkrail",
+    "togg53192-cmd/jailbreaks"
   ],
   "last_weekly": [
     "morluto/rea",

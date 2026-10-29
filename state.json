@@ -256,20 +256,27 @@
     "gitroomhq/postiz-app": "📨 The ultimate agentic social media scheduling tool 🤖",
     "alchaincyf/huashu-design": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检…",
     "elayadesign/ai-design-skills": "（暂无简介，可参考仓库 README）",
-    "togg53192-cmd/jailbreaks": "LIST OF ALL MY JAILBREAKS"
+    "togg53192-cmd/jailbreaks": "LIST OF ALL MY JAILBREAKS",
+    "macro-inc/macro": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared…",
+    "expo/skills": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+    "ruvnet/RuView": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection…",
+    "xiaolai/the-craft-of-selfteaching": "One has no future if one couldn't teach themself."
   },
   "last_daily": [
+    "JetBrains/thinkrail",
     "elayadesign/ai-design-skills",
-    "Nutlope/hallmark",
-    "nightly-labs/openbot",
     "obra/superpowers",
+    "HKUDS/DeepTutor",
+    "macro-inc/macro",
+    "Nutlope/hallmark",
     "pbakaus/impeccable",
     "makecindy/cindy",
-    "gitroomhq/postiz-app",
-    "affaan-m/ECC",
-    "HKUDS/DeepTutor",
-    "JetBrains/thinkrail",
-    "togg53192-cmd/jailbreaks"
+    "nightly-labs/openbot",
+    "togg53192-cmd/jailbreaks",
+    "hmjz100/LinkSwift",
+    "expo/skills",
+    "ruvnet/RuView",
+    "xiaolai/the-craft-of-selfteaching"
   ],
   "last_weekly": [
     "morluto/rea",

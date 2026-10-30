@@ -260,23 +260,23 @@
     "macro-inc/macro": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared…",
     "expo/skills": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
     "ruvnet/RuView": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection…",
-    "xiaolai/the-craft-of-selfteaching": "One has no future if one couldn't teach themself."
+    "xiaolai/the-craft-of-selfteaching": "One has no future if one couldn't teach themself.",
+    "milind-soni/OpenMausBot": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "CopilotKit/OpenBot": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided be…",
+    "Donchitos/Claude-Code-Game-Studios": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirr…"
   },
   "last_daily": [
-    "JetBrains/thinkrail",
-    "elayadesign/ai-design-skills",
-    "obra/superpowers",
     "HKUDS/DeepTutor",
-    "macro-inc/macro",
-    "Nutlope/hallmark",
+    "obra/superpowers",
     "pbakaus/impeccable",
-    "makecindy/cindy",
+    "JetBrains/thinkrail",
+    "milind-soni/OpenMausBot",
     "nightly-labs/openbot",
+    "elayadesign/ai-design-skills",
+    "thedotmack/claude-mem",
+    "CopilotKit/OpenBot",
     "togg53192-cmd/jailbreaks",
-    "hmjz100/LinkSwift",
-    "expo/skills",
-    "ruvnet/RuView",
-    "xiaolai/the-craft-of-selfteaching"
+    "Donchitos/Claude-Code-Game-Studios"
   ],
   "last_weekly": [
     "morluto/rea",

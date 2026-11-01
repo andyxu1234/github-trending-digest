@@ -266,24 +266,26 @@
     "Donchitos/Claude-Code-Game-Studios": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirr…",
     "Leonxlnx/taste-skill": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pa…",
     "jakubkrehel/skills": "A collection of agent skills that help you build great interfaces.",
-    "lightpanda-io/browser": "Lightpanda: the headless browser designed for AI and automation"
+    "lightpanda-io/browser": "Lightpanda: the headless browser designed for AI and automation",
+    "Orkas-AI/Orkas": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordin…",
+    "bregman-arie/devops-exercises": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure,…",
+    "vorssaint/vorssaint-utils": "Free and open-source macOS menu bar toolkit."
   },
   "last_daily": [
     "thedotmack/claude-mem",
+    "mattpocock/skills",
+    "Donchitos/Claude-Code-Game-Studios",
+    "pingdotgg/t3code",
+    "Renhuai123/ziwei-doushu",
     "milind-soni/OpenMausBot",
     "pbakaus/impeccable",
-    "CopilotKit/OpenBot",
-    "Renhuai123/ziwei-doushu",
-    "expo/skills",
-    "macro-inc/macro",
-    "mattpocock/skills",
-    "pingdotgg/t3code",
-    "HKUDS/DeepTutor",
-    "anthropics/skills",
-    "JetBrains/thinkrail",
-    "togg53192-cmd/jailbreaks",
     "obra/superpowers",
-    "lightpanda-io/browser"
+    "lightpanda-io/browser",
+    "HKUDS/DeepTutor",
+    "Orkas-AI/Orkas",
+    "THU-MAIC/OpenMAIC",
+    "bregman-arie/devops-exercises",
+    "vorssaint/vorssaint-utils"
   ],
   "last_weekly": [
     "cloudflare/security-audit-skill",

@@ -281,24 +281,25 @@
     "vercel-labs/agent-desktop": "Computer use CLI for AI agents",
     "D4Vinci/Scrapling": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, jo…",
     "karpathy/nanochat": "The best ChatGPT that $100 can buy.",
-    "p-e-w/heretic": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more"
+    "p-e-w/heretic": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+    "spotify/portal-ai-plugins": "（暂无简介，可参考仓库 README）",
+    "floci-io/floci": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+    "Usagi-org/ai-goofish-monitor": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。"
   },
   "last_daily": [
-    "vercel-labs/agent-desktop",
     "thedotmack/claude-mem",
-    "D4Vinci/Scrapling",
-    "hyprwm/Hyprland",
-    "Donchitos/Claude-Code-Game-Studios",
-    "FlashML-org/FreeToken",
-    "pingdotgg/t3code",
-    "shiyu-coder/Kronos",
-    "kornia/kornia",
+    "vercel-labs/agent-desktop",
+    "max-sixty/worktrunk",
     "JustVugg/colibri",
     "mattpocock/skills",
-    "max-sixty/worktrunk",
-    "paperclipai/paperclip",
-    "karpathy/nanochat",
-    "p-e-w/heretic"
+    "p-e-w/heretic",
+    "spotify/portal-ai-plugins",
+    "floci-io/floci",
+    "Usagi-org/ai-goofish-monitor",
+    "anomalyco/hex",
+    "D4Vinci/Scrapling",
+    "shiyu-coder/Kronos",
+    "Donchitos/Claude-Code-Game-Studios"
   ],
   "last_weekly": [
     "cloudflare/security-audit-skill",

@@ -296,7 +296,8 @@
     "lz4/lz4": "Extremely Fast Compression algorithm",
     "vercel-labs/agent-browser": "Browser automation CLI for AI agents",
     "ConardLi/garden-skills": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-    "microsoft/VibeVoice": "Open-Source Frontier Voice AI"
+    "microsoft/VibeVoice": "Open-Source Frontier Voice AI",
+    "ghostty-org/ghostty": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleratio…"
   },
   "last_daily": [
     "NVIDIA/auto-ontology",
@@ -316,17 +317,22 @@
     "JiaFeiMiao-K-Cat/DiscImageStudio"
   ],
   "last_weekly": [
-    "cloudflare/security-audit-skill",
-    "php/php-src",
-    "AgriciDaniel/claude-seo",
-    "pbakaus/impeccable",
-    "multica-ai/andrej-karpathy-skills",
-    "TauricResearch/TradingAgents",
+    "thedotmack/claude-mem",
+    "Nutlope/hallmark",
+    "pingdotgg/t3code",
+    "anthropics/skills",
+    "HKUDS/DeepTutor",
+    "max-sixty/worktrunk",
+    "milind-soni/OpenMausBot",
     "obra/superpowers",
-    "anthropics/knowledge-work-plugins",
-    "Leonxlnx/taste-skill",
+    "pbakaus/impeccable",
+    "hyprwm/Hyprland",
     "jakubkrehel/skills",
-    "ruvnet/ruflo"
+    "calesthio/OpenMontage",
+    "multica-ai/andrej-karpathy-skills",
+    "ghostty-org/ghostty",
+    "Leonxlnx/taste-skill",
+    "The-PR-Agent/pr-agent"
   ],
   "last_monthly": [
     "cloudflare/security-audit-skill",

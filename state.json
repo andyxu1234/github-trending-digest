@@ -313,24 +313,24 @@
     "sherlock-project/sherlock": "Hunt down social media accounts by username across social networks",
     "tailwindlabs/tailwindcss": "A utility-first CSS framework for rapid UI development.",
     "mbillow/localthings": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-    "dsx-ai-factory/nvke": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
+    "dsx-ai-factory/nvke": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+    "google-deepmind/mujoco": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "anthropics/claude-quickstarts": "A collection of projects designed to help developers quickly get started with building deployable applications using the…",
+    "garrytan/gbrain": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+    "homeassistant-ai/ha-mcp": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
   },
   "last_daily": [
-    "vercel-labs/agent-browser",
-    "cloudflare/security-audit-skill",
-    "google/skills",
-    "mattpocock/skills",
     "anthropics/skills",
     "meta/astryx",
-    "prometheus/prometheus",
     "sherlock-project/sherlock",
-    "milind-soni/OpenMausBot",
-    "astral-sh/ruff",
-    "tailwindlabs/tailwindcss",
-    "mbillow/localthings",
-    "zed-industries/zed",
-    "ranxianglei/billion-context",
-    "dsx-ai-factory/nvke"
+    "google-deepmind/mujoco",
+    "anthropics/claude-quickstarts",
+    "garrytan/gbrain",
+    "vercel-labs/agent-browser",
+    "ruvnet/RuView",
+    "ZhuLinsen/daily_stock_analysis",
+    "homeassistant-ai/ha-mcp",
+    "milind-soni/OpenMausBot"
   ],
   "last_weekly": [
     "thedotmack/claude-mem",

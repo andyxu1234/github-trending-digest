@@ -323,19 +323,26 @@
     "GoogleChrome/modern-web-guidance-src": "（暂无简介，可参考仓库 README）",
     "shadcn/improve": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
     "openai/codex-security": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https:/…",
-    "TheAlgorithms/Java": "All Algorithms implemented in Java"
+    "TheAlgorithms/Java": "All Algorithms implemented in Java",
+    "pookjw/HermesEnabler": "Enable Hermès Watch Faces on any Apple Watch devices",
+    "QwenLM/qwen-code": "An open-source AI coding agent that lives in your terminal.",
+    "ashhart/TensorFold": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+    "ggml-org/llama.cpp": "LLM inference in C/C++"
   },
   "last_daily": [
-    "meta/astryx",
-    "ZhuLinsen/daily_stock_analysis",
     "GoogleChrome/modern-web-guidance-src",
-    "shadcn/improve",
-    "addyosmani/agent-skills",
-    "vercel-labs/agent-browser",
-    "we-promise/sure",
-    "homeassistant-ai/ha-mcp",
     "openai/codex-security",
-    "TheAlgorithms/Java"
+    "nvm-sh/nvm",
+    "pookjw/HermesEnabler",
+    "we-promise/sure",
+    "QwenLM/qwen-code",
+    "ashhart/TensorFold",
+    "nodejs/node",
+    "addyosmani/agent-skills",
+    "meta/astryx",
+    "CopilotKit/OpenBot",
+    "Alishahryar1/free-claude-code",
+    "ggml-org/llama.cpp"
   ],
   "last_weekly": [
     "thedotmack/claude-mem",

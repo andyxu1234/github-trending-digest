@@ -345,22 +345,17 @@
     "ggml-org/llama.cpp"
   ],
   "last_weekly": [
-    "thedotmack/claude-mem",
-    "Nutlope/hallmark",
-    "pingdotgg/t3code",
     "anthropics/skills",
-    "HKUDS/DeepTutor",
-    "max-sixty/worktrunk",
     "milind-soni/OpenMausBot",
-    "obra/superpowers",
-    "pbakaus/impeccable",
-    "hyprwm/Hyprland",
-    "jakubkrehel/skills",
-    "calesthio/OpenMontage",
-    "multica-ai/andrej-karpathy-skills",
-    "ghostty-org/ghostty",
-    "Leonxlnx/taste-skill",
-    "The-PR-Agent/pr-agent"
+    "vercel-labs/agent-browser",
+    "NVIDIA/auto-ontology",
+    "cloudflare/security-audit-skill",
+    "vercel-labs/agent-desktop",
+    "mattpocock/skills",
+    "zed-industries/zed",
+    "google-deepmind/mujoco",
+    "google/skills",
+    "D4Vinci/Scrapling"
   ],
   "last_monthly": [
     "cloudflare/security-audit-skill",

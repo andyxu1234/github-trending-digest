@@ -349,21 +349,21 @@
     "kajisho5/ffmpeg-skill": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Cod…"
   },
   "last_daily": [
+    "elementalsouls/Claude-BugHunter",
+    "mvanhorn/last30days-skill",
+    "alibaba/open-code-review",
+    "Tencent/LoopForge",
+    "dream-num/univer",
+    "getarcaneapp/arcane",
+    "google-labs-code/stitch-skills",
+    "cursor/plugins",
+    "obra/superpowers",
     "ag-ui-protocol/ag-ui",
     "backnotprop/plannotator",
-    "dream-num/univer",
-    "tradermonty/claude-trading-skills",
-    "elementalsouls/Claude-BugHunter",
-    "getarcaneapp/arcane",
-    "DeanChensj/jiangshan-map",
-    "google-labs-code/stitch-skills",
-    "mvanhorn/last30days-skill",
-    "NVIDIA/SkillEvaluator",
-    "alibaba/open-code-review",
-    "google-research/paper-orchestra",
-    "ChromeDevTools/chrome-devtools-mcp",
     "sveltejs/svelte",
-    "kajisho5/ffmpeg-skill"
+    "affaan-m/ECC",
+    "jingyaogong/minimind",
+    "google-research/paper-orchestra"
   ],
   "last_weekly": [
     "anthropics/skills",

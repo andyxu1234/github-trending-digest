@@ -379,17 +379,19 @@
     "zhouxiaoka/autoclip"
   ],
   "last_weekly": [
-    "anthropics/skills",
-    "milind-soni/OpenMausBot",
-    "vercel-labs/agent-browser",
-    "NVIDIA/auto-ontology",
-    "cloudflare/security-audit-skill",
-    "vercel-labs/agent-desktop",
-    "mattpocock/skills",
-    "zed-industries/zed",
-    "google-deepmind/mujoco",
-    "google/skills",
-    "D4Vinci/Scrapling"
+    "backnotprop/plannotator",
+    "google-labs-code/stitch-skills",
+    "GoogleChrome/modern-web-guidance-src",
+    "alibaba/open-code-review",
+    "mvanhorn/last30days-skill",
+    "ChromeDevTools/chrome-devtools-mcp",
+    "tradermonty/claude-trading-skills",
+    "ag-ui-protocol/ag-ui",
+    "meta/astryx",
+    "pookjw/HermesEnabler",
+    "we-promise/sure",
+    "dream-num/univer",
+    "kajisho5/ffmpeg-skill"
   ],
   "last_monthly": [
     "cloudflare/security-audit-skill",

@@ -358,7 +358,9 @@
     "mjmirza/app-store-compliance": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection…",
     "Tracer-Cloud/opensre": "The open-source agent for CI/CD reliability.",
     "toeverything/AFFiNE": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, s…",
-    "XiaoYouChR/Ghost-Downloader-3": "The only downloader you need. 下载器的集大成者。"
+    "XiaoYouChR/Ghost-Downloader-3": "The only downloader you need. 下载器的集大成者。",
+    "n8n-io/nod": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websit…",
+    "obsidianmd/obsidian-skills": "Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas."
   },
   "last_daily": [
     "elementalsouls/Claude-BugHunter",
@@ -382,6 +384,7 @@
     "backnotprop/plannotator",
     "google-labs-code/stitch-skills",
     "GoogleChrome/modern-web-guidance-src",
+    "n8n-io/nod",
     "alibaba/open-code-review",
     "mvanhorn/last30days-skill",
     "ChromeDevTools/chrome-devtools-mcp",
@@ -390,6 +393,7 @@
     "meta/astryx",
     "pookjw/HermesEnabler",
     "we-promise/sure",
+    "obsidianmd/obsidian-skills",
     "dream-num/univer",
     "kajisho5/ffmpeg-skill"
   ],
